@@ -40,7 +40,24 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Program.cs"/>
+        <Compile Include="Exam.cs" />
+        <Compile Include="Exam12909.cs" />
+        <Compile Include="Exam135808.cs" />
+        <Compile Include="Exam181934.cs" />
+        <Compile Include="Exam181935.cs" />
+        <Compile Include="Exam181941.cs" />
+        <Compile Include="Exam181942.cs" />
+        <Compile Include="Exam181943.cs" />
+        <Compile Include="Exam181944.cs" />
+        <Compile Include="Exam181945.cs" />
+        <Compile Include="Exam181946.cs" />
+        <Compile Include="Exam181947.cs" />
+        <Compile Include="Exam181948.cs" />
+        <Compile Include="Exam181949.cs" />
+        <Compile Include="Exam181950.cs" />
+        <Compile Include="Exam181951.cs" />
+        <Compile Include="Exam181952.cs" />
+        <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
