@@ -63,6 +63,15 @@ namespace CodingTestIDE
             
             var exam12909 = new Exam12909();
             Exam.AddExam(12909, exam12909);
+            
+            var exam181932 = new Exam181932();
+            Exam.AddExam(181932, exam181932);
+            
+            var exam181931 = new Exam181931();
+            Exam.AddExam(181931, exam181931);
+            
+            var exam468371 = new Exam468371();
+            Exam.AddExam(468371, exam468371);
         }
     }
 }
