@@ -43,6 +43,8 @@
         <Compile Include="Exam.cs" />
         <Compile Include="Exam12909.cs" />
         <Compile Include="Exam135808.cs" />
+        <Compile Include="Exam181929.cs" />
+        <Compile Include="Exam181930.cs" />
         <Compile Include="Exam181931.cs" />
         <Compile Include="Exam181932.cs" />
         <Compile Include="Exam181934.cs" />
@@ -59,6 +61,7 @@
         <Compile Include="Exam181950.cs" />
         <Compile Include="Exam181951.cs" />
         <Compile Include="Exam181952.cs" />
+        <Compile Include="Exam468370.cs" />
         <Compile Include="Exam468371.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
