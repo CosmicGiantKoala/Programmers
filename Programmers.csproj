@@ -61,8 +61,10 @@
         <Compile Include="Exam181950.cs" />
         <Compile Include="Exam181951.cs" />
         <Compile Include="Exam181952.cs" />
+        <Compile Include="Exam389478.cs" />
         <Compile Include="Exam468370.cs" />
         <Compile Include="Exam468371.cs" />
+        <Compile Include="Exam468379.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
